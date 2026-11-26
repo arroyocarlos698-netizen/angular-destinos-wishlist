@@ -1,0 +1,5 @@
+/* Bootstrap se carga globalmente desde angular.json. */
+body {
+  min-width: 320px;
+  background: #f8fafc;
+}
